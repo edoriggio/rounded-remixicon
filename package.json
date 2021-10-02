@@ -1,0 +1,22 @@
+{
+  "name": "remixicon",
+  "version": "2.5.0",
+  "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial. This is the rounded-icons version of the original RemixIcons.",
+  "keywords": [
+    "remixicon", "remix", "icon", "icon library", "icon pack", "rounded", "rounded-remixicon"
+  ],
+  "files": [
+    "fonts/",
+    "icons/",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edoriggio/rounded-remixicon"
+  },
+  "bugs": "https://github.com/edoriggio/rounded-remixicon/issues",
+  "contributors": ["Edoardo Riggio <edo.riggio19@gmail.com>"]
+}
