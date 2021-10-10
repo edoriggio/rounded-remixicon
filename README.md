@@ -7,3 +7,6 @@
 [![donate](https://img.shields.io/badge/-Donate-DA6429.svg?style=flat-square)](https://remixicon.com/#donate) -->
 
 This is a project based on RemixIcon. Here all the icons that are in the original repo are rounded.
+
+Thanks for visiting.
+
